@@ -1,0 +1,20 @@
+{
+  "name": "technicalassignment_module24_buildwebserviceandrestfulapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^7.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
+  }
+}
